@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">( ) . ; | + &lt; = &gt; :</Keywords>
+            <Keywords name="Operators1">( ) . ; | + &lt; = &gt; : ,</Keywords>
             <Keywords name="Operators2">IS IN</Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">SELECT ASC BETWEEN DESC UPDATE DELETE FROM &apos;RIGHT JOIN&apos; WHERE AS SET TREAT ON &apos;GROUP BY&apos; HAVING &apos;ORDER BY&apos; &apos;LEFT JOIN&apos; JOIN &apos;LEFT JOIN FETCH&apos;  &apos;JOIN FETCH&apos; &apos;LEFT OUTER JOIN&apos; &apos;RIGHT OUTER JOIN&apos; &apos;FULL JOIN&apos; &apos;INNER JOIN&apos; &apos;INNER JOIN FETCH&apos;</Keywords>
+            <Keywords name="Keywords1">SELECT ASC BETWEEN DESC UPDATE DELETE FROM &apos;RIGHT JOIN&apos; WHERE AS SET TREAT ON &apos;GROUP BY&apos; HAVING &apos;ORDER BY&apos; &apos;LEFT JOIN&apos; JOIN &apos;LEFT JOIN FETCH&apos; &apos;JOIN FETCH&apos; &apos;LEFT OUTER JOIN&apos; &apos;RIGHT OUTER JOIN&apos; &apos;FULL JOIN&apos; &apos;INNER JOIN&apos; &apos;INNER JOIN FETCH&apos;</Keywords>
             <Keywords name="Keywords2">FUNCTION ABS AVG BOTH CLASS COALESCE CONCAT COUNT CURRENT_DATE CURRENT_TIME CURRENT_TIMESTAMP DISTINCT ENTRY ESCAPE EXISTS INDEX KEY LEADING LENGTH LIKE LOCATE LOWER MAX MEMBER MIN MOD NEW NOT NULLIF OBJECT OF SIZE SQRT SUBSTRING SUM TRAILING TRIM TYPE UPPER VALUE</Keywords>
             <Keywords name="Keywords3">ALL ANY FALSE TRUE NULL EMPTY SOME</Keywords>
             <Keywords name="Keywords4">BIT_LENGTH CHAR_LENGTH CHARACTER_LENGTH POSITION UNKNOWN FETCH GROUP ORDER OUTER FULL LEFT RIGHT INNER</Keywords>
