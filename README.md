@@ -1,2 +1,2 @@
 # notepad++ jpql
-User Defined Language Files for JPQL and HQL for Notepad++
+User Defined Language Files for EQL, JPQL and HQL for Notepad++
