@@ -5,7 +5,7 @@
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
         </Settings>
         <KeywordLists>
-            <Keywords name="Comments">03/* 04*/ 00-- 01 02</Keywords>
+            <Keywords name="Comments">00 01 02 03 04</Keywords>
             <Keywords name="Numbers, prefix1"></Keywords>
             <Keywords name="Numbers, prefix2"></Keywords>
             <Keywords name="Numbers, extras1"></Keywords>
@@ -31,7 +31,7 @@
             <Keywords name="Keywords5"></Keywords>
             <Keywords name="Keywords6"></Keywords>
             <Keywords name="Keywords7">WHEN THEN ELSE</Keywords>
-            <Keywords name="Keywords8">FETCH&#x000D;&#x000A;GROUP&#x000D;&#x000A;INNER&#x000D;&#x000A;LEFT&#x000D;&#x000A;ORDER&#x000D;&#x000A;OUTER</Keywords>
+            <Keywords name="Keywords8">BY&#x000D;&#x000A;FETCH&#x000D;&#x000A;GROUP&#x000D;&#x000A;INNER&#x000D;&#x000A;LEFT&#x000D;&#x000A;ORDER&#x000D;&#x000A;OUTER</Keywords>
             <Keywords name="Delimiters">00&apos; 01 02&apos; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
         <Styles>
