@@ -1,8 +1,8 @@
 <NotepadPlus>
-    <UserLang name="EQL" ext="eql" udlVersion="2.1">
+    <UserLang name="EclipseLink QL" ext="eql" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
-            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="yes" Keywords7="no" Keywords8="no" />
         </Settings>
         <KeywordLists>
             <Keywords name="Comments">03/* 04*/ 00-- 01 02</Keywords>
@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">( ) . ; | + &lt; = &gt; : ,</Keywords>
+            <Keywords name="Operators1">( ) ; + - * / &lt; = &gt; , ||</Keywords>
             <Keywords name="Operators2">IS IN</Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -29,7 +29,7 @@
             <Keywords name="Keywords3"></Keywords>
             <Keywords name="Keywords4">BIT_LENGTH&#x000D;&#x000A;CHAR_LENGTH&#x000D;&#x000A;CHARACTER_LENGTH&#x000D;&#x000A;POSITION&#x000D;&#x000A;UNKNOWN</Keywords>
             <Keywords name="Keywords5">CAST&#x000D;&#x000A;COLUMN&#x000D;&#x000A;EXCEPT&#x000D;&#x000A;EXTRACT&#x000D;&#x000A;FUNC&#x000D;&#x000A;INTERSECT&#x000D;&#x000A;&apos;NULLS FIRST&apos;&#x000D;&#x000A;&apos;NULLS LAST&apos;&#x000D;&#x000A;OPERATOR&#x000D;&#x000A;REGEXP&#x000D;&#x000A;SQL&#x000D;&#x000A;TABLE&#x000D;&#x000A;UNION</Keywords>
-            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords6">|</Keywords>
             <Keywords name="Keywords7">WHEN THEN ELSE</Keywords>
             <Keywords name="Keywords8">BY&#x000D;&#x000A;FETCH&#x000D;&#x000A;GROUP&#x000D;&#x000A;INNER&#x000D;&#x000A;LEFT&#x000D;&#x000A;ORDER&#x000D;&#x000A;OUTER</Keywords>
             <Keywords name="Delimiters">00&apos; 01 02&apos; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
@@ -44,7 +44,7 @@
             <WordsStyle name="KEYWORDS3" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS4" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="5" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="800040" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="KEYWORDS6" fgColor="800040" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS7" fgColor="FF8000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS8" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="5" nesting="0" />
             <WordsStyle name="OPERATORS" fgColor="808080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
