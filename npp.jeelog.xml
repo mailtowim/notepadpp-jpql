@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">{ } : . ,  &apos; &quot; ( ) + - * / =</Keywords>
+            <Keywords name="Operators1">{ } : . , &apos; &quot; ( ) + - * / =</Keywords>
             <Keywords name="Operators2"></Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">ERROR</Keywords>
+            <Keywords name="Keywords1">ERROR FATAL</Keywords>
             <Keywords name="Keywords2">WARN WARNING</Keywords>
             <Keywords name="Keywords3">DEBUG INFO</Keywords>
             <Keywords name="Keywords4">&apos;Caused by:&apos;</Keywords>
