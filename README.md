@@ -1,5 +1,4 @@
-# notepad++ jpql
-User Defined Language Files for EQL, JPQL and HQL for Notepad++
+# User Defined Language Files for Notepad++
 
 EclipseLink Query Language support for Notepad++
 ---
@@ -9,9 +8,9 @@ EclipseLink Query Language support for Notepad++
 
 Java Persistence Query Language support for Notepad++
 ---
-* [Java Persistence QL 1.0](npp.JPQL1_0.xml)
-* [Java Persistence QL 2.0](npp.JPQL2_0.xml)
-* [Java Persistence QL 2.1](npp.JPQL2_1.xml)
+* [for Java Persistence QL 1.0](npp.JPQL1_0.xml)
+* [for Java Persistence QL 2.0](npp.JPQL2_0.xml)
+* [for Java Persistence QL 2.1](npp.JPQL2_1.xml)
 
 Hibernate Query Language support for Notepad++
 ---
