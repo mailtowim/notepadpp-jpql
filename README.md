@@ -14,7 +14,7 @@ Java Persistence Query Language support for Notepad++
 
 Hibernate Query Language support for Notepad++
 ---
-* [Hibernate QL](npp.hibernate.xml)
+* [Hibernate QL 4.3](npp.HQL4_3.xml)
 
 JEE log support for Notepad++
 ---
