@@ -6,6 +6,7 @@ EclipseLink Query Language support for Notepad++
 * [2.0](npp.EQL2_0.xml)
 * [2.1](npp.EQL2_1.xml)
 * [2.4](npp.EQL2_4.xml)
+* [2.5](npp.EQL2_5.xml)
 
 Java Persistence Query Language support for Notepad++
 ---
