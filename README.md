@@ -22,6 +22,7 @@ Hibernate Query Language support for Notepad++
 * [3.5](npp.HQL3_5.xml)
 * [4.3](npp.HQL4_3.xml)
 * [5.0](npp.HQL5_0.xml)
+* [5.1](npp.HQL5_1.xml)
 
 JEE log support for Notepad++
 ---
