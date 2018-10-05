@@ -11,6 +11,7 @@ EclipseLink Query Language support for Notepad++
 Infinispan Ickle Query Language support for Notepad++
 ---
 * [latest](npp.IQL.xml)
+* [9.0](npp.IQL.xml)
 
 Java Persistence Query Language support for Notepad++
 ---
