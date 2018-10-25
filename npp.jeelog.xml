@@ -26,7 +26,7 @@
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">ERROR FATAL SEVERE</Keywords>
             <Keywords name="Keywords2">WARN WARNING</Keywords>
-            <Keywords name="Keywords3">DEBUG INFO</Keywords>
+            <Keywords name="Keywords3">DEBUG INFO CONFIG FINE FINER FINEST</Keywords>
             <Keywords name="Keywords4">&apos;Caused by:&apos;</Keywords>
             <Keywords name="Keywords5">###</Keywords>
             <Keywords name="Keywords6">null&#x000D;&#x000A;true&#x000D;&#x000A;false&#x000D;&#x000A;TRUE&#x000D;&#x000A;FALSE</Keywords>
